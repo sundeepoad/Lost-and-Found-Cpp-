@@ -53,10 +53,5 @@ We have used a proper style guide while coding. 'Google C++ Style Guide' for the
 Style guide link:  https://google.github.io/styleguide/cppguide.html
 
 Developed by:
-Syed Yasir Afzal
 Sundeep Kumar
-Muhammad Kazim
 
-Acknowledgments:
-We are thankful to Habib University for providing us Mac Lab to code.
-This project was completed successfully with the assistance and guidance of Dr. Waqar Saleem (OOP professor), M Shakaib Saleem and Lala Rukh (TAs).
